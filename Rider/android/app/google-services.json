@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76025742479",
+    "firebase_url": "https://myuber-64633-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myuber-64633",
+    "storage_bucket": "myuber-64633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76025742479:android:b702141d8764b5a3695cfa",
+        "android_client_info": {
+          "package_name": "com.mang.uberrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76025742479-2hv0qkmnrvn4psa92hd3pk0gcbpntb85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4V2RFM8m2502m7fbcBJVCncOfzgympTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76025742479-2hv0qkmnrvn4psa92hd3pk0gcbpntb85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
